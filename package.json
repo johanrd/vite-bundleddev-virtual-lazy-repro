@@ -1,0 +1,11 @@
+{
+  "name": "vite-bundleddev-virtual-lazy-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --clearScreen false"
+  },
+  "devDependencies": {
+    "vite": "8.2.0"
+  }
+}
