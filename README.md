@@ -70,4 +70,4 @@ virtual-module plugin has to string-match a rolldown-internal query to survive.
 
 ## Versions
 
-vite 8.2.0, rolldown 1.2.1, node 24.14.0, macOS 15
+vite 8.2.0, rolldown 1.2.1, node 24.14.0, macOS 26.3
